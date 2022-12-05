@@ -1,0 +1,27 @@
+p {
+  font-family: Lato;
+}
+
+.card {
+  max-width: 1000px;
+  margin: 50px;
+}
+
+.example-header-image {
+  background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+  background-size: cover;
+}
+
+.transport-icon{
+  background-image: url('assets/bed-solid.svg');
+  background-size: cover;
+  height: 10px;
+  width: 10px;
+}
+
+.header{
+  background-color: rgb(153, 201, 255);
+  width: 100%;
+  padding: 10;
+  margin-left: 0;
+}

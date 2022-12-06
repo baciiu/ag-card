@@ -12,16 +12,21 @@ p {
   background-size: cover;
 }
 
-.transport-icon{
+.transport-icon {
   background-image: url('assets/bed-solid.svg');
   background-size: cover;
   height: 10px;
   width: 10px;
 }
 
-.header{
+.header {
   background-color: rgb(153, 201, 255);
   width: 100%;
   padding: 10;
   margin-left: 0;
+}
+
+.transp_address {
+  display: flex;
+  flex-direction: row;
 }
